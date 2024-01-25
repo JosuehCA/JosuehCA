@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋😎 I'm Josueh Cabrera.</h1>
 <h3 align="center">And I'm studying Software Engineering @ Facultad de Matemáticas (México)</h3>
 
-- 🌱 Currently learning: Python, Java, C++, Django
+- 🌱 Currently learning: Python, Java, Django, Javascript
 - 👯 I’m looking to collaborate on: Web Development/AI
 - 📫 Take a look at my [LinkdIn](https://www.linkedin.com/in/josuehcabrera/)
 
