@@ -2,7 +2,7 @@
 <h3 align="center">And I'm studying Software Engineering @ Facultad de Matemáticas (México)</h3>
 
 - 🌱 Currently learning: Python, Java, Django, Javascript
-- 👯 I’m looking to collaborate on: Web Development/AI
+- 👯 I’m looking to collaborate on: AI/ML/Web Development
 - 📫 Take a look at my [LinkdIn](https://www.linkedin.com/in/josuehcabrera/)
 
 ## Some stuff I've done:
