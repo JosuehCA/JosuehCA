@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on: AI/ML/Web Development
 - 📫 Take a look at my [LinkdIn](https://www.linkedin.com/in/josuehcabrera/)
 
-#### Get to know me a litte bit more through my webiste @https://josuehca.github.io/
+#### Get to know me a litte bit more through my website @https://josuehca.github.io/
